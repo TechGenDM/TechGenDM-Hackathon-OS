@@ -1,0 +1,5 @@
+# Each hackathon project is its own repo — don't track them inside the kit.
+hackathons/*
+!hackathons/.gitkeep
+
+.DS_Store
